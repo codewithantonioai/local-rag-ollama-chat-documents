@@ -1,0 +1,12 @@
+[project]
+name = "docchat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.3",
+    "ollama>=0.6.3",
+    "pypdf>=6.19.0",
+    "streamlit>=1.65.0",
+]
